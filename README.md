@@ -3,9 +3,9 @@
 How to use:
 Windows
 -Open the PowerShell
--digit cd -Path from the directory where the script is- ex: C:\Users\***\Downloads
--digit python ImgRedo.py
--digit the path from the directory with the images and Json files
+-digit: cd -Path from the directory where the script is- ex: C:\Users\***\Downloads
+-digit: python ImgRedo.py
+-digit: the path from the directory with the images and Json files
 -Wait the process finish
 
 Dependencies:
