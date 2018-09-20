@@ -15,8 +15,11 @@ To install the modules on WINDOWS using pip:
 -digit: python -m pip install 'module name'
 
 Attention:
+
 -The folder can have any other files beside the original images and json files and the script will care only with the json files and images
+
 -Be aware that the script don't use the name of the archives to guide itself through the files into the folder, but use the total number of json files to edit a equal number of images
+
 -As such the process is: the first json file in the folder edit the first image, the second json the second image, and so on.
 -Then is wise to a folder only have the same number of json files as images, and the they share the same name.
 
